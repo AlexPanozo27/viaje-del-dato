@@ -1,2 +1,5 @@
-# viaje-del-dato
-Infografía interactiva: el viaje del dato en un sistema de adquisición de datos (DAQ)
+# El viaje del dato
+
+Infografía interactiva sobre los Sistemas de Adquisición de Datos (DAQ): sensor, acondicionamiento, conversión A/D, transmisión y procesamiento, con simulador.
+
+UNIFRANZ · Ingeniería de Sistemas
